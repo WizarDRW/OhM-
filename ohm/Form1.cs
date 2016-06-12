@@ -255,8 +255,7 @@ namespace ohm
         void ABC()
         {
             double a = deg.carpim(x,y,C,T);
-            double b;
-            b = Math.Round(a);
+            double b = Math.Round(a);
             Sonuc.Text = b + "K" + "Ω" + "±" + "%" + T;
         }
     }
