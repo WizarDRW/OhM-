@@ -248,8 +248,8 @@ namespace ohm
 
         void ABC()
         {
-            double a = deg.carpim(x,y,C,T);
-            double b = Math.Round(a);
+            object a = deg.carpim(x,y,C,T);
+            a = string.Format("{0:#,0}", a);
             Sonuc.Text = b + "K" + "Ω" + "±" + "%" + T;
         }
     }
