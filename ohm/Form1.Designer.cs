@@ -48,19 +48,19 @@
             // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "Siyah",
-            "Kahverengi",
-            "Kırmızı",
-            "Turuncu",
-            "Sarı",
-            "Yeşil",
-            "Mavi",
-            "Mor",
-            "Gri",
-            "Beyaz",
-            "Altın",
-            "Gümüş",
-            "yok"});
+            "Black",
+            "Brown",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple",
+            "Grey",
+            "White",
+            "Gold",
+            "Silver",
+            "Nope"});
             this.comboBox1.Location = new System.Drawing.Point(63, 24);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
@@ -71,19 +71,19 @@
             // 
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
-            "Siyah",
-            "Kahverengi",
-            "Kırmızı",
-            "Turuncu",
-            "Sarı",
-            "Yeşil",
-            "Mavi",
-            "Mor",
-            "Gri",
-            "Beyaz",
-            "Altın",
-            "Gümüş",
-            "yok"});
+            "Black",
+            "Brown",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple",
+            "Grey",
+            "White",
+            "Gold",
+            "Silver",
+            "Nope"});
             this.comboBox2.Location = new System.Drawing.Point(63, 64);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(121, 21);
@@ -94,19 +94,19 @@
             // 
             this.comboBox3.FormattingEnabled = true;
             this.comboBox3.Items.AddRange(new object[] {
-            "Siyah",
-            "Kahverengi",
-            "Kırmızı",
-            "Turuncu",
-            "Sarı",
-            "Yeşil",
-            "Mavi",
-            "Mor",
-            "Gri",
-            "Beyaz",
-            "Altın",
-            "Gümüş",
-            "yok"});
+            "Black",
+            "Brown",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple",
+            "Grey",
+            "White",
+            "Gold",
+            "Silver",
+            "Nope"});
             this.comboBox3.Location = new System.Drawing.Point(63, 104);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(121, 21);
@@ -168,19 +168,19 @@
             // 
             this.comboBox4.FormattingEnabled = true;
             this.comboBox4.Items.AddRange(new object[] {
-            "Siyah",
-            "Kahverengi",
-            "Kırmızı",
-            "Turuncu",
-            "Sarı",
-            "Yeşil",
-            "Mavi",
-            "Mor",
-            "Gri",
-            "Beyaz",
-            "Altın",
-            "Gümüş",
-            "yok"});
+            "Black",
+            "Brown",
+            "Red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple",
+            "Grey",
+            "White",
+            "Gold",
+            "Silver",
+            "Nope"});
             this.comboBox4.Location = new System.Drawing.Point(63, 143);
             this.comboBox4.Name = "comboBox4";
             this.comboBox4.Size = new System.Drawing.Size(121, 21);
@@ -211,7 +211,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(41, 13);
             this.label9.TabIndex = 18;
-            this.label9.Text = "Sonuç:";
+            this.label9.Text = "Result:";
             // 
             // Sonuc
             // 
