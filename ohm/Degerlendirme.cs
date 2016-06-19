@@ -3,14 +3,14 @@ using System.Collections.Generic;
 
 namespace ohm
 {
-    class Degerlendirme
+    class evaluation
     {
-        public double carpim(double bir, double iki,double C,double T)
+        public double product(double d1, double d2,double C,double T)
         {
-            string a = Convert.ToString((bir) + "" + (iki));
-            double biriki = Convert.ToDouble(a);
-            double sonuc;
-            return sonuc = biriki * C;
+            string a = Convert.ToString((d1) + "" + (d2));
+            double d1d2 = Convert.ToDouble(a);
+            double result;
+            return result = d1d2 * C;
         }
     }
 }
