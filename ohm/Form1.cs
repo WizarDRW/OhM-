@@ -10,7 +10,7 @@ namespace ohm
         {
             InitializeComponent();
         }
-        Degerlendirme deg = new Degerlendirme();
+        evaluation eva = new evaluation();
         public int x, y; public double C, T;
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -248,9 +248,9 @@ namespace ohm
 
         void ABC()
         {
-            object a = deg.carpim(x,y,C,T);
+            object a = evo.product(x,y,C,T);
             a = string.Format("{0:#,0}", a);
-            Sonuc.Text = b + "K" + "Ω" + "±" + "%" + T;
+            Result.Text = b + "K" + "Ω" + "±" + "%" + T;
         }
     }
 }
