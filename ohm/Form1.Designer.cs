@@ -41,7 +41,7 @@
             this.button4 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.Sonuc = new System.Windows.Forms.Label();
+            this.Result = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // comboBox1
@@ -213,13 +213,13 @@
             this.label9.TabIndex = 18;
             this.label9.Text = "Result:";
             // 
-            // Sonuc
+            // Result
             // 
-            this.Sonuc.AutoSize = true;
-            this.Sonuc.Location = new System.Drawing.Point(107, 192);
-            this.Sonuc.Name = "Sonuc";
-            this.Sonuc.Size = new System.Drawing.Size(0, 13);
-            this.Sonuc.TabIndex = 19;
+            this.Result.AutoSize = true;
+            this.Result.Location = new System.Drawing.Point(107, 192);
+            this.Result.Name = "Result";
+            this.Result.Size = new System.Drawing.Size(0, 13);
+            this.Result.TabIndex = 19;
             // 
             // Form1
             // 
@@ -262,7 +262,7 @@
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label Sonuc;
+        private System.Windows.Forms.Label Result;
     }
 }
 
